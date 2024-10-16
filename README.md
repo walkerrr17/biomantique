@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌿✨ BioMantique – Preservando o Bioma de Mangue com Inovação
 
-## Getting Started
+![Biomantique Logo](https://github.com/user-attachments/assets/7adf4609-58d5-49e2-ae16-af1dbb69795d)
 
-First, run the development server:
+<sub>*Tecnologias que salvam espécies e revitalizam o ecossistema dos manguezais*</sub>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📋 **Índice**
+1. [Visão Geral](#-visão-geral)
+2. [Problema que estamos resolvendo](#-problema-que-estamos-resolvendo)
+3. [Soluções Propostas](#-soluções-propostas)
+4. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+5. [Descrição do Site](#-descrição-do-site)
+6. [Autores](#-autores)
+7. [Licença](#️-licença)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌎 **Visão Geral**  
+O **BioMantique** é um projeto que busca unir ciência e tecnologia para preservar e restaurar os manguezais. Esses ecossistemas são essenciais para a biodiversidade e para o combate às mudanças climáticas, mas estão ameaçados por fatores como urbanização e poluição. Nosso projeto propõe uma solução integrada com o uso de tecnologias inovadoras e estratégias sustentáveis.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚨 **Problema que estamos resolvendo**  
+Os manguezais enfrentam desafios como:
+- 🌊 Poluição e acúmulo de resíduos  
+- 🌱 Destruição de habitat por desmatamento e ocupação urbana  
+- 🔥 Mudanças climáticas
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💡 **Soluções Propostas**  
+Implementamos uma abordagem tecnológica e prática:
+- **Drones de Monitoramento Ambiental** 🚁  
+  Detectam e mapeiam focos de poluição em áreas de difícil acesso.  
+- **Sensores de Qualidade da Água** 💧  
+  Monitoram o nível de salinidade e poluentes em tempo real.  
+- **Plataformas Flutuantes de Reflorestamento** 🌱  
+  Facilitam o cultivo de espécies nativas em locais degradados.  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠 **Tecnologias Utilizadas**  
+- **Frontend**: Next.js, GSAP e Three.js  
+- **Backend**: API REST com Express e MongoDB
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🖥 **Descrição do Site**  
+Nosso site foi desenvolvido para servir como uma vitrine digital do projeto BioMantique. Ele inclui:  
+- **Visualizações Interativas** 🎥 com GSAP e Three.js para explicar o funcionamento das tecnologias utilizadas.
+- **Sessões Informativas** 📄 que detalham os problemas e soluções propostas para a preservação dos manguezais.  
+- **Interface Responsiva** 📱 otimizada para todos os dispositivos, facilitando o acesso às informações em qualquer lugar.
+
+Durante as apresentações na **Expotec 2024** e na feira de ciências, utilizaremos esse site como a principal forma de mostrar o projeto às pessoas e explicar nossas propostas.
+
+---
+
+## 👥 **Autores**  
+- **Richard(#)** & **Pedro(#)** – Líderes do projeto
+
+---
+
+## 📄️ **Licença**  
+
+### Licença Personalizada – Todos os Direitos Reservados 🚫  
+
+Este projeto é de propriedade minha e do meu contribuidor. Não é permitido:  
+- Fazer **forks** ou cópias deste repositório.  
+- Redistribuir, modificar ou adaptar o conteúdo deste projeto.  
+- Usar este código ou partes dele para outros fins, comerciais ou não.
+
+---
+
+<p align="center">
+  Feito com ❤️ <strong>BioMantique</strong>
+</p>
