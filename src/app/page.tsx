@@ -1,7 +1,7 @@
+import Hero from "../views/sections/Hero";
+
 export default function Home() {
   return (
-    <div>
-      <h1>Hello Biomantique 2!</h1>
-    </div>
+    <Hero />
   );
 }

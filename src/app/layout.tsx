@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Biomantique",
-  description: "A Fortec Project",
+  description: "Um Projeto Fortec",
 };
 
 export default function RootLayout({
