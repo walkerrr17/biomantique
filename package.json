@@ -11,6 +11,8 @@
   "dependencies": {
     "@headlessui/react": "^2.1.10",
     "@heroicons/react": "^2.1.5",
+    "@react-three/drei": "^9.114.6",
+    "@react-three/fiber": "^8.17.10",
     "gsap": "^3.12.5",
     "next": "14.2.15",
     "react": "^18",
