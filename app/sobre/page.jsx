@@ -7,6 +7,8 @@ import image from '../../public/logo_only-cropped.svg';
 
 import richard from '../../public/team/richard.jpg';
 import vitoria from '../../public/team/vitoria.jpg';
+import fernanda from '../../public/team/fernanda.jpg';
+import manuella from '../../public/team/manuella.jpg';
 
 const navigation = [
   { name: 'SOBRE NÓS', href: '/sobre' },
@@ -67,6 +69,16 @@ const team = [
     name: 'Vitória Regina',
     role: 'Pesquisadora',
     imageUrl: vitoria.src,
+  },
+  {
+    name: 'Fernanda Almeida',
+    role: 'Pesquisadora',
+    imageUrl: fernanda.src,
+  },
+  {
+    name: 'Manuella Bandeira',
+    role: 'Pesquisadora',
+    imageUrl: manuella.src,
   },
 ];
 
