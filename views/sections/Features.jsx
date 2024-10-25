@@ -62,7 +62,7 @@ export default function Features() {
               </dl>
             </div>
           </div>
-          <div className="max-w-[64rem]">
+          <div className="max-w-[64rem] max-[640px]:w-[32rem] lg:w-[64rem] max-[640px]:h-[15rem] h-[50vh]">
             <Scene />
           </div>
         </div>
