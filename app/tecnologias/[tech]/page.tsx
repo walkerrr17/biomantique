@@ -5,8 +5,8 @@ import { technologies } from '../data';
 import { useEffect, useState } from 'react';
 
 const getIcon = async (iconName: string) => {
-  const module: any = await import("@heroicons/react/24/solid");
-  return module[iconName] || module["QuestionMarkCircleIcon"]; // Fallback icon
+  const packageModule:any = await import("@heroicons/react/24/solid");
+  return packageModule[iconName] || packageModule["QuestionMarkCircleIcon"]; // Fallback icon
 };
 
 const generateAdvantages = async (advantages: any[]) => {
