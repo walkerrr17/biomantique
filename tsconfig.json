@@ -27,7 +27,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/views/sections/Features.jsx",
-    "app/sobre/page.jsx"
+    "app/sobre/page.jsx",
+    "app/tecnologias/[tech]/page.jsx"
   ],
   "exclude": ["node_modules"]
 }
