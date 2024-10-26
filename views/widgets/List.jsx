@@ -1,4 +1,4 @@
-import { technologies } from '../../app/tecnologias/data.json';
+import { technologies } from '../../app/tecnologias/data';
 
 export default function List() {
   return (

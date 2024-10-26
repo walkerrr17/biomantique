@@ -1,5 +1,4 @@
-{
-  "technologies": [
+export const technologies = [
     {
       "name": "Wildlife Acoustics SM4",
       "shortDescription": "Monitora sons da vida selvagem remotamente.",
@@ -139,4 +138,3 @@
       ]
     }
   ]
-}

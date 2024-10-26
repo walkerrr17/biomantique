@@ -1,7 +1,7 @@
 "use client";
 
 import Footer from '../../../views/sections/Footer';
-import { technologies } from '../data.json';
+import { technologies } from '../data';
 import { useEffect, useState } from 'react';
 
 const getIcon = async (iconName: string) => {
