@@ -56,18 +56,11 @@ Durante as apresentações na **Expotec 2024** e na feira de ciências, utilizar
 ---
 
 ## 👥 **Autores**  
-- **Richard(#)** & **Pedro(#)** – Líderes do projeto
+- **Richard(#)** – Líder do projeto
 
 ---
 
-## 📄️ **Licença**  
-
-### Licença Personalizada – Todos os Direitos Reservados 🚫  
-
-Este projeto é de propriedade minha e do meu contribuidor. Não é permitido:  
-- Fazer **forks** ou cópias deste repositório.  
-- Redistribuir, modificar ou adaptar o conteúdo deste projeto.  
-- Usar este código ou partes dele para outros fins, comerciais ou não.
+Este projeto é de propriedade do diretor do repositório.
 
 ---
 
